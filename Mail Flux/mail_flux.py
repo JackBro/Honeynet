@@ -5,6 +5,10 @@ import time
 """
     Simple Mail Flux PoC,
     Using Mailinator and a simple mail generation algorithm.
+    
+    Coded By Shahriyar Jalayeri
+    Iran Honeynet Chapter,
+    http://www.irhoneynet.org/
 """
 
 class HttpCommand:
